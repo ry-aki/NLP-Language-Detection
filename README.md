@@ -11,4 +11,4 @@
 
 
 A simple Natural Language Detection Model made using Pythion and NLTK library.
-The used dataset contaisn text details for 17 different languages through which the model is trained using Multinomial Naive Bayes.
+The used dataset contaisn text details for 17 different languages through which the model is trained using Multinomial Naive Bayes and other Machine Learning Algorithms.
